@@ -1,0 +1,35 @@
+<div
+  class="service frontpage-service-summary"
+  data-aos="fade-up"
+  data-aos-delay="500"
+  data-aos-duration="2000">
+  <div class="service-content">
+    <div class="text-center">
+      <!-- Add text-center class to center the title and summary -->
+      <h2 class="service-title">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h2>
+    </div>
+    <div class="text-center">
+      <!-- Add text-center class to center the image horizontally -->
+      <img
+        src="{{ .Params.primage | relURL }}"
+        style="
+          width: 200px;
+          height: 125px;
+          margin-top: 20px;
+            margin-bottom: 30px;
+          } /* Add missing closing CSS property */
+        "
+        class="mx-auto d-block" />
+      <!-- Add mx-auto and d-block classes to center the image horizontally -->
+    </div>
+    <div class="text-center">
+      <!-- Add text-center class to center the summary -->
+      <p>{{ .Summary | plainify | htmlUnescape }}</p>
+    </div>
+    <div
+      class="text-center"
+      style="padding-top: 20px; padding-bottom: 20px"></div>
+  </div>
+</div>

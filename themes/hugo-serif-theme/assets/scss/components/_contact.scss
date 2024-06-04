@@ -1,0 +1,107 @@
+.site-contact {
+  padding: 150px 0 100px;
+  background: $gray;
+  @include mobile {
+    padding: 120px 0 100px;
+  }
+  &-title {
+    font-weight: 700;
+    font-size: 80px;
+    color: $text-color;
+    @include tablet {
+      font-size: 40px;
+    }
+    span {
+      color: $gr8-main-colour;
+    }
+  }
+  &-form {
+    margin-top: 20px;
+    h4 {
+      font-weight: 300;
+      text-transform: uppercase;
+      margin-bottom: 50px;
+      letter-spacing: 3px;
+      @include tablet {
+        font-size: 20px;
+      }
+      @include desktop {
+        margin-bottom: 70px;
+      }
+    }
+    input,
+    textarea,
+    select {
+      // Add styles for select element
+      color: $text-color; // Apply the form input text colour
+    }
+
+    input::placeholder,
+    textarea::placeholder {
+      color: $text-color; // Apply a different colour to the placeholder text if needed
+    }
+  }
+}
+.form-control {
+  background: transparent;
+  border-radius: 0;
+  margin-bottom: 30px;
+  padding: 0 0 10px 0;
+  border-width: 0 0 1px 0;
+  border-color: $gr8-main-colour;
+  font-weight: 300;
+  letter-spacing: 1px;
+  -webkit-appearance: none;
+  height: 42px;
+  &:focus {
+    box-shadow: none;
+    color: #3a3a3a;
+    background: transparent;
+    border-color: $text-color;
+  }
+}
+
+select.form-control {
+  height: 42px !important;
+  position: relative;
+}
+
+.select-wrapper {
+  position: relative;
+  &::before {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 10px;
+    background: url("../images/angle-down-select.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-80%);
+  }
+}
+
+textarea.form-control {
+  height: auto;
+}
+
+.contact-form-generator {
+  margin-top: 20px;
+  a {
+    color: $text-color-dark;
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    letter-spacing: 3px;
+    &:hover {
+      text-decoration: none;
+    }
+    @include tablet {
+      font-size: 20px;
+    }
+    @include desktop {
+      margin-bottom: 70px;
+    }
+  }
+}

@@ -1,0 +1,67 @@
+.site-contact{
+  padding: 150px 0 100px;
+  background: $white;
+  @include mobile{
+    padding: 120px 0 100px;
+  }
+  &-title{
+    font-weight: 700;
+    color: $gr8-second-colour; // Apply the heading colour
+    font-size: 70px;
+    @include tablet{
+      font-size: 40px;
+    }
+    span{
+      color: $gr8-main-colour;
+    }
+  }
+  &-form{
+    margin-top: 20px;
+    h4{
+      font-weight: 300;
+      text-transform: uppercase;
+      color: $gr8-main-colour; // Apply the heading colour
+      margin-bottom: 50px;
+      letter-spacing: 3px;
+      @include tablet{
+        font-size: 20px;
+      }
+      @include desktop{
+        margin-bottom: 70px;
+      }
+    }
+    input,
+    textarea,
+    select {
+      color: $gr8-main-colour; // Apply the form input text colour
+      background-color: $white; // Ensure form input background colour is set, if needed
+      border: 1px solid $gr8-main-colour; // Ensure form input border colour is set, if needed
+      padding: 10px; // Adjust padding if needed
+      font-size: 14px; // Adjust font size if needed
+    }
+
+    input::placeholder,
+    textarea::placeholder {
+      color: $gr8-main-colour; // Apply a different colour to the placeholder text if needed
+    }
+  }
+}
+.contact-form-generator {
+  margin-top: 20px;
+    a{
+    color: $black;
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    letter-spacing: 3px;
+    &:hover{
+      text-decoration: none;
+    }
+    @include tablet{
+      font-size: 20px;
+    }
+    @include desktop{
+      margin-bottom: 70px;
+    }
+  }
+}
