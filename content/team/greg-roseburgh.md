@@ -7,7 +7,4 @@ jobtitle: "Director"
 promoted: true
 weight: 1
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Greg, a seasoned Civil Engineer, brings over 25 years of expertise to GR8 Construction Projects. Hailing from Edinburgh, his extensive background in civil engineering has equipped him with the skills to oversee complex construction projects with precision and innovation. Greg’s commitment to excellence and his ability to navigate the technical and logistical challenges of the building trade have been instrumental in the successful completion of numerous high-profile projects.
