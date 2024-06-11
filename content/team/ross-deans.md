@@ -8,4 +8,4 @@ promoted: true
 weight: 2
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Ross, an accomplished Joiner with more than 25 years of hands-on experience, is a cornerstone of GR8 Construction Projects. Also from Edinburgh, Ross has honed his craft to perfection, combining traditional joinery techniques with modern practices to deliver outstanding results. His meticulous attention to detail and dedication to quality craftsmanship ensure that every project he undertakes meets the highest standards, making him an invaluable asset to the team.
