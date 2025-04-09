@@ -2,7 +2,7 @@
 title: "Bathrooms"
 date: 2018-11-18T12:33:46+10:00
 draft: false
-primage: images/gr8-images/image6.jpg
+primage: /images/gr8-images/image6.jpg
 featured: true
 weight: 3
 ---

@@ -2,7 +2,7 @@
 title: "Kitchens"
 date: 2018-11-18T12:33:46+10:00
 draft: false
-primage: images/gr8-images/image4.webp
+primage: /images/gr8-images/image4.webp
 featured: true
 weight: 4
 ---
