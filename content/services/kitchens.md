@@ -12,6 +12,7 @@ At Gr8 we are experts in creating stunning, functional kitchen and bathroom spac
 <!--more-->
 
 ![Kitchen in Leith](/images/gr8-images/image4.webp)
+![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Kitchen Renovations
 
