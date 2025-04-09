@@ -3,7 +3,7 @@ title: "Extensions"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 draft: false
-primage: /images/gr8-images/image8.jpg
+primage: /images/gr8-images/image8.webp
 weight: 2
 ---
 
