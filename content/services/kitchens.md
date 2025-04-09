@@ -2,7 +2,7 @@
 title: "Kitchens"
 date: 2018-11-18T12:33:46+10:00
 draft: false
-primage: /images/gr8-images/image4.webp
+primage: images/gr8-images/image4.webp
 featured: true
 weight: 4
 ---
@@ -11,7 +11,7 @@ At Gr8 we are experts in creating stunning, functional kitchen and bathroom spac
 
 <!--more-->
 
-![Kitchen in Leith](/images/gr8-images/image4.webp)
+![Kitchen in Leith](images/gr8-images/image4.webp)
 
 # Kitchen Renovations
 
@@ -22,6 +22,6 @@ Your kitchen is the heart of your home, and we believe it should be as beautiful
     •	Expert Installation: Our skilled craftsmen handle every aspect of the installation process, ensuring your kitchen is built to the highest standards.
     •	Innovative Solutions: Incorporate the latest technology and storage solutions to create a kitchen that is as practical as it is stylish.
 
-![Kitchen in Leith2](/images/gr8-images/image5.jpg)
+![Kitchen in Leith2](images/gr8-images/image5.jpg)
 
 ###

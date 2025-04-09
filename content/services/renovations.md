@@ -2,7 +2,7 @@
 title: "Renovations"
 date: 2018-11-18T12:33:46+10:00
 draft: false
-primage: /images/gr8-images/image0.jpg
+primage: images/gr8-images/image0.jpg
 featured: true
 weight: 3
 summary: "At Gr8, we are dedicated to transforming homes in Edinburgh with our comprehensive renovation services. Whether you are looking to modernise an older property or enhance a new build, our team of experts is here to make your dream home a reality."
@@ -12,7 +12,7 @@ At Gr8, we are dedicated to transforming homes in Edinburgh with our comprehensi
 
 <!--more-->
 
-![Reno in Edinburgh](/images/gr8-images/image0.jpg)
+![Reno in Edinburgh](images/gr8-images/image0.jpg)
 
 # Our renovation Services
 
