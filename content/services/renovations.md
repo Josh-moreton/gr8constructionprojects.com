@@ -12,7 +12,7 @@ At Gr8, we specialise in transforming Edinburgh homes through exceptional renova
 
 <!--more-->
 
-![Renovation Project in Edinburgh](https://gr8constructionprojects.com/images/gr8-images/image0.jpg)
+![Renovation Project in Edinburgh](https://gr8constructionprojects.com/images/gr8-images/image0.webp)
 
 # Our Renovation Services
 
