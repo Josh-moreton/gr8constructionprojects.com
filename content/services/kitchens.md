@@ -17,6 +17,8 @@ Transform your home with Gr8's expert kitchen renovation services. We specialize
 
 The kitchen isn't just where meals are prepared – it's where memories are made, conversations flow, and families come together. At Gr8, we're passionate about creating exceptional kitchen spaces that inspire and delight. Our comprehensive kitchen renovation services include:
 
+![Kitchen in Leith1](https://gr8constructionprojects.com/images/gr8-images/image3.webp)
+
 - **Bespoke Design:** Our expert designers collaborate closely with you to create your perfect kitchen. Whether you're drawn to contemporary minimalism, classic charm, or something uniquely yours, we'll craft a space that perfectly balances style and functionality.
 
 - **Premium Materials:** We source only the finest materials and products from trusted suppliers. From hardwearing granite countertops to precision-engineered cabinetry and designer fixtures, every element is chosen for its quality, durability, and aesthetic appeal.
