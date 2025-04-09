@@ -2,17 +2,17 @@
 title: "Renovations"
 date: 2018-11-18T12:33:46+10:00
 draft: false
-primage: /images/services/dmitry-ant-eyauXrAKQHM-unsplash.jpg
+primage: /images/gr8-images/image0.jpg
 featured: true
 weight: 3
-summary: "Our tax preparation accounting service offers a reliable and efficient solution for individuals and businesses seeking expert assistance in managing their tax obligations."
+summary: "At Gr8, we are dedicated to transforming homes in Edinburgh with our comprehensive renovation services. Whether you are looking to modernise an older property or enhance a new build, our team of experts is here to make your dream home a reality."
 ---
 
 At Gr8, we are dedicated to transforming homes in Edinburgh with our comprehensive renovation services. Whether you are looking to modernise an older property or enhance a new build, our team of experts is here to make your dream home a reality.
 
 <!--more-->
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Reno in Edinburgh](/images/gr8-images/image0.jpg)
 
 # Our renovation Services
 
