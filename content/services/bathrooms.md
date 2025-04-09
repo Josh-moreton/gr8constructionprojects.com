@@ -7,7 +7,7 @@ featured: true
 weight: 3
 ---
 
-We are specialists in renovating and enhancing new build properties in Edinburgh and the surrounding areas. Our expertise ensures that even newly constructed homes can be customised and upgraded to perfectly suit your style and needs.
+As Edinburgh's premier bathroom specialists, we excel in creating stunning bathroom spaces in both new build properties and existing homes. With years of dedicated experience, our expert team transforms ordinary bathrooms into luxurious retreats that combine functionality with sophisticated design.
 
 <!--more-->
 
@@ -15,9 +15,20 @@ We are specialists in renovating and enhancing new build properties in Edinburgh
 
 ## Bathroom Renovations
 
-Transform your bathroom into a sanctuary with our comprehensive renovation services. We offer:
+Your bathroom should be more than just functional – it should be a personal sanctuary where style meets comfort. Our comprehensive renovation services deliver exactly that, with attention to every detail:
 
-    •	Elegant Design: Our design team creates bathroom layouts that maximise space and comfort, tailored to your tastes and needs.
-    •	Premium Fixtures: Choose from a curated selection of high-quality fixtures and finishes, including luxurious baths, sleek walk-in showers, and stylish vanities.
-    •	Seamless Integration: We ensure your new bathroom integrates seamlessly with your home, combining your style with up to date finishings.
-    •	Attention to Detail: Every element of your bathroom renovation is crafted with precision and care, from plumbing installation to tiling and lighting.
+- **Expert Design Consultation**: Our experienced designers work closely with you to create bathroom layouts that maximize space and light while incorporating your personal style preferences.
+
+- **Premium Fixtures & Materials**: Select from our carefully curated collection of high-end fixtures and materials, including:
+
+  - Luxury freestanding baths and spa-like features
+  - Modern walk-in showers with premium glass work
+  - Designer vanities and storage solutions
+  - Water-efficient toilets and taps
+  - Contemporary lighting solutions
+
+- **Flawless Implementation**: Our skilled craftsmen ensure every aspect of your bathroom renovation is executed to perfection, from precise tiling to expert plumbing installation.
+
+- **Quality Assurance**: We use only the finest materials and trusted brands, backing our work with comprehensive warranties for your peace of mind.
+
+Contact us today to start planning your dream bathroom renovation. We service Edinburgh and surrounding areas, bringing luxury and comfort to homes across the region.
