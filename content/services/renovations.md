@@ -12,7 +12,7 @@ At Gr8, we are dedicated to transforming homes in Edinburgh with our comprehensi
 
 <!--more-->
 
-![Reno in Edinburgh](images/gr8-images/image0.jpg)
+![Reno in Edinburgh](https://gr8constructionprojects.com/images/gr8-images/image0.jpg)
 
 # Our renovation Services
 

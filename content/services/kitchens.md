@@ -11,7 +11,7 @@ At Gr8 we are experts in creating stunning, functional kitchen and bathroom spac
 
 <!--more-->
 
-![Kitchen in Leith](/images/gr8-images/image4.webp)
+![Kitchen in Leith](https://gr8constructionprojects.com/images/gr8-images/image4.webp)
 
 # Kitchen Renovations
 

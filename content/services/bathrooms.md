@@ -11,7 +11,7 @@ We are specialists in renovating and enhancing new build properties in Edinburgh
 
 <!--more-->
 
-![Bathroom in East Lothian](images/gr8-images/image6.webp)
+![Bathroom in East Lothian](https://gr8constructionprojects.com/images/gr8-images/image6.webp)
 
 ## Bathroom Renovations
 
