@@ -24,5 +24,3 @@ Your vision drives our design process. Whether you're dreaming of a light-filled
 Excellence is built into every extension we create. Our master craftsmen combine traditional building techniques with modern innovations, ensuring durability and superior finish in every detail. We carefully select premium materials and employ industry-leading construction methods, resulting in extensions that not only look stunning but stand the test of time. From foundations to finishing touches, we maintain exacting standards that reflect our commitment to quality.
 
 ![Extension in Musselburgh](https://gr8constructionprojects.com/images/gr8-images/image1.webp)
-
-## Recent Projects
