@@ -7,7 +7,7 @@ primage: /images/gr8-images/image8.webp
 weight: 2
 ---
 
-We specialise in transforming your living space with expertly crafted home extensions. Whether you’re looking to add a new room, expand your kitchen, or create a seamless indoor-outdoor flow, our dedicated team has a wealth of experience in creating the perfect extended space.
+Transform your home and add valuable living space with our expertly crafted house extensions. From stunning kitchen expansions to versatile new living areas, we specialise in creating beautiful, functional spaces that enhance both your lifestyle and property value. With decades of experience in East Lothian and Edinburgh, our team delivers extensions that exceed expectations.
 
 <!--more-->
 
@@ -15,13 +15,13 @@ We specialise in transforming your living space with expertly crafted home exten
 
 # Tailored Solutions for Every Home
 
-Every home is unique, and so are your needs. We work closely with you to design and build extensions that perfectly match your lifestyle and aesthetic preferences. From initial concept to final touches, our bespoke solutions ensure that your extension is not just an addition, but an enhancement of your home.
+Your vision drives our design process. Whether you're dreaming of a light-filled garden room, a spacious family kitchen, or a multi-room extension, we collaborate closely with you to create the perfect solution. Our experienced architects and builders ensure your extension not only meets your practical needs but also adds architectural value to your property, considering aspects like natural light, flow between spaces, and energy efficiency.
 
 ![Extension in Musselburgh](https://gr8constructionprojects.com/images/gr8-images/image0.webp)
 
 ## Quality Craftsmanship
 
-We pride ourselves on delivering exceptional quality in every project. Our skilled craftsmen use only the finest materials and the latest techniques to ensure your extension is built to last. Attention to detail is our hallmark, ensuring that your new space seamlessly integrates with your existing home.
+Excellence is built into every extension we create. Our master craftsmen combine traditional building techniques with modern innovations, ensuring durability and superior finish in every detail. We carefully select premium materials and employ industry-leading construction methods, resulting in extensions that not only look stunning but stand the test of time. From foundations to finishing touches, we maintain exacting standards that reflect our commitment to quality.
 
 ![Extension in Musselburgh](https://gr8constructionprojects.com/images/gr8-images/image1.webp)
 
