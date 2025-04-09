@@ -4,14 +4,12 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 primage: /images/services/daniel-mccullough-HtBlQdxfG9k-unsplash.jpg
 featured: true
-weight: 1
+weight: 5
 ---
 
 At GR8, we believe that the foundation of every successful project lies in meticulous planning and seamless collaboration. Our commitment to excellence begins with our close partnership with expert architects, ensuring that every vision is brought to life with precision and creativity.
 
 <!--more-->
-
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Expert Architectural Drawings
 
