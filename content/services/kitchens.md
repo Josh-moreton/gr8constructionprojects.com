@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 primage: /images/gr8-images/image4.webp
 featured: true
-weight: 4
+weight: 2
 ---
 
 Transform your home with Gr8's expert kitchen renovation services. We specialize in creating breathtaking, highly functional kitchens that combine timeless design with modern innovation. From complete renovations to stylish updates, our team brings decades of experience to every project, ensuring your dream kitchen becomes reality.

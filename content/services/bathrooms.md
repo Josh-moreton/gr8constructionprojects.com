@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 primage: /images/gr8-images/image6.webp
 featured: true
-weight: 3
+weight: 1
 ---
 
 As Edinburgh's premier bathroom specialists, we excel in creating stunning bathroom spaces in both new build properties and existing homes. With years of dedicated experience, our expert team transforms ordinary bathrooms into luxurious retreats that combine functionality with sophisticated design.

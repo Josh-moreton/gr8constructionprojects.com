@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 primage: /images/gr8-images/image0.webp
 featured: true
-weight: 4
+weight: 3
 summary: "Transform your Edinburgh home with Gr8's expert renovation services. From period properties to modern builds, we deliver exceptional craftsmanship and attention to detail in every project."
 ---
 

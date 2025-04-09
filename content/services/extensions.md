@@ -4,7 +4,7 @@ date: 2018-11-28T15:14:54+10:00
 featured: true
 draft: false
 primage: /images/gr8-images/image8.webp
-weight: 2
+weight: 4
 ---
 
 Transform your home and add valuable living space with our expertly crafted house extensions. From stunning kitchen expansions to versatile new living areas, we specialise in creating beautiful, functional spaces that enhance both your lifestyle and property value. With decades of experience in East Lothian and Edinburgh, our team delivers extensions that exceed expectations.
