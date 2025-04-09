@@ -2,7 +2,7 @@
 title: "Kitchens"
 date: 2018-11-18T12:33:46+10:00
 draft: false
-primage: /images/gr8-images/image4.jpg
+primage: /images/gr8-images/image4.webp
 featured: true
 weight: 4
 ---
@@ -11,7 +11,7 @@ At Gr8 we are experts in creating stunning, functional kitchen and bathroom spac
 
 <!--more-->
 
-![Kitchen in Leith](/images/gr8-images/image4.jpg)
+![Kitchen in Leith](/images/gr8-images/image4.webp)
 
 # Kitchen Renovations
 
